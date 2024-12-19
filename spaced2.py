@@ -7,7 +7,7 @@ root.title("Spaced Invaders!!")
 root.geometry("600x450")
 root.config(bg="#1e1b1c")
 
-# Add our images
+# Add our images From https://craftpix.net/freebies/free-space-shooter-game-gui/
 bg_image = PhotoImage(file="images/starbg.png")
 player_image = PhotoImage(file="images/ship.png") # 50x40
 enemy_image = PhotoImage(file="images/enemy.png") # 30x30
